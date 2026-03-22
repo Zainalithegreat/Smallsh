@@ -16,4 +16,7 @@ Features
   - SIGTSTP (Ctrl+Z) toggles foreground-only mode
 - Handles blank lines and comment lines (#)
 
-- 
+Technologies Used
+- C (GNU99 standard)
+- Unix/Linux system calls
+
